@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OwnAdventure",
+            "request": "launch",
+            "mainClass": "_01_else_if._5_own_adventure.OwnAdventure",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
+            "name": "AreYouHappy",
+            "request": "launch",
+            "mainClass": "_01_else_if._4_are_you_happy.AreYouHappy",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
             "name": "BananaQuiz",
             "request": "launch",
             "mainClass": "_99_extra.BananaQuiz"
