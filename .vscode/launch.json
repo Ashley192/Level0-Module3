@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bottles",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._4_99_bottles.bottles.Bottles",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
+            "name": "YearsAlive",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._1_years_alive.YearsAlive",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
             "name": "OwnAdventure",
             "request": "launch",
             "mainClass": "_01_else_if._5_own_adventure.OwnAdventure",
